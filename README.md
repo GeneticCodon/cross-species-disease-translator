@@ -129,18 +129,6 @@ Akt1, Braf, Gfap, Mapt, Snca, App, Tp53, Pten, Egfr, Kras
 
 ---
 
-## Roadmap
-
-- [ ] Gene-disease network graph (NetworkX / Cytoscape)
-- [ ] PDF export of full analysis report
-- [ ] Support for additional species (pig, marmoset, dog)
-- [ ] OMIM / ClinVar integration
-- [ ] Pathway enrichment analysis (KEGG / Reactome)
-- [ ] Docker image for easy deployment
-- [ ] Streamlit Community Cloud one-click deploy
-
----
-
 ## Built By
 
 **Genetic Codon** — bioinformatics tools for researchers.
